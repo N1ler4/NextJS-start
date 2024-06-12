@@ -1,0 +1,23 @@
+header{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: #4c00ff;
+}
+.li-active{
+    color: black;
+    padding: 5px 10px;
+    background: white;
+    border-radius: 100px ;
+}
+.ul{
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
